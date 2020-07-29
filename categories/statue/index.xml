@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>statue on JINGYI CHEN&#39;s Site</title>
-    <link>https://jingychen.github.io/categories/statue/</link>
-    <description>Recent content in statue on JINGYI CHEN&#39;s Site</description>
+    <title>art on JINGYI CHEN&#39;s Site</title>
+    <link>https://jingychen.github.io/categories/art/</link>
+    <description>Recent content in art on JINGYI CHEN&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jingychen.github.io/categories/statue/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jingychen.github.io/categories/art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Human Statues</title>
-      <link>https://jingychen.github.io/perso/statues/humans/</link>
+      <title>Group</title>
+      <link>https://jingychen.github.io/art/arts/humans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jingychen.github.io/perso/statues/humans/</guid>
-      <description>Description: Statues from Cham museum in Da Nang, Vietnam.</description>
+      <guid>https://jingychen.github.io/art/arts/humans/</guid>
+      <description>Description: arts from Cham museum in Da Nang, Vietnam.</description>
     </item>
     
     <item>
-      <title>Other Statues</title>
-      <link>https://jingychen.github.io/perso/statues/others/</link>
+      <title>Other arts</title>
+      <link>https://jingychen.github.io/art/arts/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jingychen.github.io/perso/statues/others/</guid>
-      <description>Description: Statues from Cham museum in Da Nang, Vietnam.</description>
+      <guid>https://jingychen.github.io/art/arts/others/</guid>
+      <description>Description: arts from Cham museum in Da Nang, Vietnam.</description>
     </item>
     
   </channel>

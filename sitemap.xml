@@ -3,37 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jingychen.github.io/</loc>
-    <lastmod>2020-07-17T00:04:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/post/my-first-post/</loc>
-    <lastmod>2020-07-17T00:04:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/post/</loc>
-    <lastmod>2020-07-17T00:04:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/pro/the-awesome-company/other-project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/pro/the-awesome-company/simple-project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/pro/company/single-project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/tags/ae/</loc>
-  </url>
-  
-  <url>
     <loc>https://jingychen.github.io/tags/arduino/</loc>
   </url>
   
@@ -42,11 +11,11 @@
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/tags/bundle/</loc>
+    <loc>https://jingychen.github.io/art/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/tags/c4d/</loc>
+    <loc>https://jingychen.github.io/tags/bundle/</loc>
   </url>
   
   <url>
@@ -54,11 +23,23 @@
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/pro/client-x/</loc>
+    <loc>https://jingychen.github.io/commerce/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/pro/company/</loc>
+    <loc>https://jingychen.github.io/categories/computational-art/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jingychen.github.io/art/computational-art-/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jingychen.github.io/art/contemporary-art/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jingychen.github.io/art/contemporary-art/discourse/</loc>
   </url>
   
   <url>
@@ -66,31 +47,39 @@
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/drawings/</loc>
+    <loc>https://jingychen.github.io/art/drawings/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/tags/human/</loc>
+    <loc>https://jingychen.github.io/art/drawings/drawings/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/statues/humans/</loc>
+    <loc>https://jingychen.github.io/art/contemporary-art/field-of-vision/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/categories/it/</loc>
+    <loc>https://jingychen.github.io/art/contemporary-art/group/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/tags/machine-learning/</loc>
+    <loc>https://jingychen.github.io/commerce/promo/ifs/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/food/moo-moo/</loc>
+    <loc>https://jingychen.github.io/tags/installation/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/drawings/music/</loc>
+    <loc>https://jingychen.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jingychen.github.io/art/computational-art-/kink/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jingychen.github.io/art/computational-art-/loudspeaker/</loc>
   </url>
   
   <url>
@@ -102,23 +91,19 @@
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/statues/others/</loc>
+    <loc>https://jingychen.github.io/tags/projection/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/</loc>
+    <loc>https://jingychen.github.io/commerce/promo/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/tags/processing/</loc>
+    <loc>https://jingychen.github.io/tags/python/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/pro/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/perso/drawings/random/</loc>
+    <loc>https://jingychen.github.io/art/contemporary-art/reconstruction/</loc>
   </url>
   
   <url>
@@ -126,23 +111,11 @@
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/perso/food/</loc>
+    <loc>https://jingychen.github.io/tags/sculpture/</loc>
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/tags/simple/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/perso/food/no-photos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/categories/statue/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/perso/statues/</loc>
+    <loc>https://jingychen.github.io/art/drawings/sculptures/</loc>
   </url>
   
   <url>
@@ -150,19 +123,7 @@
   </url>
   
   <url>
-    <loc>https://jingychen.github.io/pro/the-awesome-company/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/pro/client-x/single-project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/perso/food/vietnam/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jingychen.github.io/tags/western/</loc>
+    <loc>https://jingychen.github.io/art/computational-art-/heart-of-the-cosmos/</loc>
   </url>
   
 </urlset>

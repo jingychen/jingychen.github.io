@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contemprary arts on JINGYI CHEN</title>
+    <link>https://jingychen.github.io/art/contemporary-art/</link>
+    <description>Recent content in Contemprary arts on JINGYI CHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jingychen.github.io/art/contemporary-art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discourse</title>
+      <link>https://jingychen.github.io/art/contemporary-art/discourse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jingychen.github.io/art/contemporary-art/discourse/</guid>
+      <description>Description: arts from Cham museum in Da Nang, Vietnam.</description>
+    </item>
+    
+    <item>
+      <title>Field of Vision</title>
+      <link>https://jingychen.github.io/art/contemporary-art/field-of-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jingychen.github.io/art/contemporary-art/field-of-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group</title>
+      <link>https://jingychen.github.io/art/contemporary-art/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jingychen.github.io/art/contemporary-art/group/</guid>
+      <description>Description: arts from Cham museum in Da Nang, Vietnam.</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction</title>
+      <link>https://jingychen.github.io/art/contemporary-art/reconstruction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jingychen.github.io/art/contemporary-art/reconstruction/</guid>
+      <description>Description: arts from Cham museum in Da Nang, Vietnam.</description>
+    </item>
+    
+  </channel>
+</rss>
